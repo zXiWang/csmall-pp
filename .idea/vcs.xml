@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/csmall-passport/jsd2206-csmall-passport-teacher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csmall-product/jsd2206-csmall-product-teacher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/csmall-web-client/jsd2206-csmall-web-client-teacher" vcs="Git" />
+  </component>
+</project>
