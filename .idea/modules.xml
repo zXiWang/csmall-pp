@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/csmall-passport/csmall-passport.iml" filepath="$PROJECT_DIR$/csmall-passport/csmall-passport.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/csmall-pp.iml" filepath="$PROJECT_DIR$/.idea/csmall-pp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csmall-product/csmall-product.iml" filepath="$PROJECT_DIR$/csmall-product/csmall-product.iml" />
     </modules>
   </component>
 </project>

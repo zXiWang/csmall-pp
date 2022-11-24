@@ -70,7 +70,8 @@ export default {
                   this.$cookie.set('password', password);
                 }
                 setTimeout(function () {
-                  this.$router.push('/sys-admin/index');
+                  // this.$router.push('/sys-admin/index');
+                  location.href="/";
                 }, 1000)
 
                 break;
